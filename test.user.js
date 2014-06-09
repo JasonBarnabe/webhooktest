@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name blah blah2 test
+// @name blah blah2 again
 // @namespace   http://userstyles.org/automation
 // @description Disables things like alert, confirm, and prompt - useful for visiting sites with an automated tool like iMacros
 // @include     http://*
