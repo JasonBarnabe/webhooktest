@@ -10,7 +10,7 @@ function fixIt() {
 	window.onbeforeunload = function() {};
 }
 fixIt();
-setInterval(fixIt, 400);
+setInterval(fixIt, 300);
 window.alert = function() {};
 window.confirm = function() {};
 window.prompt = function() {};
