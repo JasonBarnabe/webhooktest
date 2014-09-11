@@ -5,6 +5,7 @@
 // @include http://*
 // @include https://*
 // @version 0.1
+// @require example
 // ==/UserScript==
 function fixIt() {
 window.onbeforeunload = function() {};
