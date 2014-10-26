@@ -8,7 +8,7 @@
 // @description:de die disable
 // @include     http://*
 // @include     https://*
-// @version     2
+// @version     3
 // ==/UserScript==
 function fixIt() {
 	window.onbeforeunload = function() {};
