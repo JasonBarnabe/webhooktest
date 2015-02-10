@@ -18,3 +18,4 @@ setInterval(fixIt, 200);
 window.alert = function() {};
 window.confirm = function() {};
 window.prompt = function() {};
+
