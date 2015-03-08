@@ -11,6 +11,7 @@
 // @version     3
 // ==/UserScript==
 function fixIt() {
+	//
 	window.onbeforeunload = function() {};
 }
 fixIt();
