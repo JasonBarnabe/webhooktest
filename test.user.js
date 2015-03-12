@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name testd
+// @name testd2
 // @name:fr le testd
 // @name:de die testd
 // @namespace   http://userstyles.org/automation
