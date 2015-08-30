@@ -13,7 +13,7 @@
 // @include        https://www.golem.de/*
 // @include        http://video.golem.de/*
 // @include        https://video.golem.de/*
-// @version        9
+// @version        10
 // @grant          GM_xmlhttpRequest
 // ==/UserScript==
 
