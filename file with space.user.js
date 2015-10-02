@@ -8,6 +8,7 @@
 // @description:de die disable
 // @include     http://*
 // @include     https://*
+// @require     http://something.example
 // @version     5
 // ==/UserScript==
 function fixIt() {
