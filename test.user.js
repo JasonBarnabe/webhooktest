@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         mb. FUNKEY ILLUSTRATED RECORDS
 // @name:fr      nom francais
-// @version      2015.3.20.1999
+// @version      2016.3.20.1999
 // @description  musicbrainz.org: CAA front cover art archive pictures/images (release groups and releases) Big illustrated discography and/or inline everywhere possible without cluttering the pages
 // @description:fr  description francaise
 // @homepage     http://userscripts-mirror.org/scripts/show/154481
