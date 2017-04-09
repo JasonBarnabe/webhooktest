@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           HTML5-Video für Golem.de 8
+// @name           HTML5-Video für Golem.de 9
 // @namespace      tfr
 // @description    Wandelt den Golem.de-eigenen Flash-Player in einen HTML5-Player um.
 // @author         tfr (https://github.com/t-fr/)
