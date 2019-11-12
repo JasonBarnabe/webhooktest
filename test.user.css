@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name        Example UserCSS style
+@description I took this from https://github.com/openstyles/stylus/wiki/UserCSS-authors
+@namespace   github.com/openstyles/stylus
+@version     1.0.0
+@license     unlicense
+==/UserStyle== */
+
+@-moz-document domain("example.com") {
+  a {
+    color: red;
+  }
+}
